@@ -1,0 +1,14 @@
+{
+  "method": "PPO",
+  "sigma": null,
+  "seed": 0,
+  "train_steps": 400000,
+  "train_best_fitness": 1150.772488,
+  "eval_episodes": 10,
+  "normal_gravity_mean": 1328.9496645923932,
+  "normal_gravity_sem": 6.619488573262545,
+  "reduced_gravity_mean": 1231.0873953776547,
+  "reduced_gravity_sem": 23.476223222100778,
+  "retention": 0.926361191983329,
+  "wallclock_s": 502.5
+}

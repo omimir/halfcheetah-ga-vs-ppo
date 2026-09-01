@@ -1,0 +1,14 @@
+{
+  "method": "GA",
+  "sigma": 0.05,
+  "seed": 1,
+  "train_steps": 400000,
+  "train_best_fitness": 1196.8237023274403,
+  "eval_episodes": 10,
+  "normal_gravity_mean": 538.3062221920811,
+  "normal_gravity_sem": 121.11331410413686,
+  "reduced_gravity_mean": 231.71837865132588,
+  "reduced_gravity_sem": 57.64325433986899,
+  "retention": 0.4304582951089184,
+  "wallclock_s": 26.0
+}
